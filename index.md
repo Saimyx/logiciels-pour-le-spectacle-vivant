@@ -89,6 +89,9 @@ Mince la bande son est trop longue !
     </div>
   </article>
 
+## Logiciel à tester
+Il existe le logiciel [BlinderKitten](http://blinderkitten.lighting/) pour contrôler les lumières (comme QLC+) mais je ne l’ai que rapidement testé.
+
 
 # Pour la vidéo
-*en cours* 
+*Je n’ai pas encore trouvé de logiciel cool pour faire de la projection vidéo malheureusement. LibreOffice Impress peut faire le taff, mais moins bien que Microsoft PowerPoint… et ça reste nul pour les vidéos.* 
