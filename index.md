@@ -1,5 +1,5 @@
 ---
-title: "Ma page de recommandations"
+title: "Logiciels libres pour le spectacle vivant"
 order: 0
 in_menu: true
 ---
@@ -94,4 +94,4 @@ Il existe le logiciel [BlinderKitten](http://blinderkitten.lighting/) pour contr
 
 
 # Pour la vidéo
-*Je n’ai pas encore trouvé de logiciel cool pour faire de la projection vidéo malheureusement. LibreOffice Impress peut faire le taff, mais moins bien que Microsoft PowerPoint… et ça reste nul pour les vidéos.* 
+*Je n’ai pas encore trouvé de logiciel cool pour faire de la projection vidéo malheureusement. [LibreOffice Impress](https://framalibre.org/notices/libreoffice-impress.html) peut faire le taff, mais moins bien que Microsoft PowerPoint… et ça reste nul pour les vidéos.* 
