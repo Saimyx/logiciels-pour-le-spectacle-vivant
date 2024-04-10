@@ -40,6 +40,24 @@ Et galérer parce que n’est pas fait pour faire des tops (mais ça marche quan
     </div>
   </article>
 
+## Pour éditer rapidement une bande son
+Mince la bande son est trop longue !
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Audacity.png">
+    </div>
+    <div>
+      <h2>Audacity</h2>
+      <p>Le logiciel vedette pour l'édition audio</p>
+      <div>
+        <a href="https://framalibre.org/notices/audacity.html">Vers la notice Framalibre</a>
+        <a href="https://www.audacityteam.org">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
 
 # Pour la lumière
 
